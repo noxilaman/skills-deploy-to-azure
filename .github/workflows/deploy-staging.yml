@@ -1,5 +1,4 @@
-name: Stage the app
-
+name: Stage
 on:
   pull_request:
     types: [labeled]
